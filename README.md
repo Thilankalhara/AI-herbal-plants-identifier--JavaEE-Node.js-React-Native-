@@ -69,14 +69,14 @@ Herbula is a **cross-platform mobile app** that identifies **healing plants** us
   <img src="./Screenshots/result1.png" width="40%" />
 </p>
 
-### 🟪 Report Screen (2)
+### 🟪 Result Screen (2)
 <p align="center">
-  <img src="./Screenshots/result2.png" width="40%" />
+  <img src="./Screenshots/results2.png" width="40%" />
 </p>
 
-### 🟥 Report Screen (3)
+### 🟥 Result Screen (3)
 <p align="center">
-  <img src="./Screenshots/result3.png" width="40%" />
+  <img src="./Screenshots/results3.png" width="40%" />
 </p>
 
 
@@ -99,10 +99,9 @@ See the [LICENSE](./LICENSE) file for full copyright and usage terms.
    git clone <repo-url>
    cd Herbula
    
-   replace with your ip (.env) and genimi api key too (backend/GenerateSuggestions.java)
+   replace with your ip in (.env) and genimi api key too (backend/GenerateSuggestions.java)
 
    npm install
-
 
 Run:
 npx expo start
