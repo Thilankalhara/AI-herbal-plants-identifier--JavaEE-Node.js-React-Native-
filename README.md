@@ -96,7 +96,7 @@ See the [LICENSE](./LICENSE) file for full copyright and usage terms.
 
 1. Clone the repository
    ```bash
-   git clone <repo-url>
+   git clone (https://github.com/Thilankalhara/AI-herbal-plants-identifier--JavaEE-Node.js-React-Native-.git)
    cd Herbula
    
    replace with your ip in (.env) and genimi api key too (backend/GenerateSuggestions.java)
